@@ -1,4 +1,0 @@
-Archivo 2
-linea 1
-Linea 2
-Linea 3
